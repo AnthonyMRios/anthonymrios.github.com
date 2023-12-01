@@ -22,6 +22,8 @@ permalink: /publications/
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
 <ol start="10">
+<li><b>Towards Understanding the Generalization of Medical Text-to-SQL Models and Datasets
+</b><br />R. Tarbell, R. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>In: Proceedings of the AMIA Annual Symposium, AMIA 2023</i><br />[<a href="https://arxiv.org/abs/2303.12898">preprint</a>]</li> <br />
 <li><b>Measuring Geographic Performance Disparities of Offensive Language Classifiers.
 </b><br />B. Lwowski, P. Rad, and <b>A. Rios</b><br /><i>In: Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022.</i><br />[<a href="https://aclanthology.org/2022.coling-1.574/">link</a>]</li> <br />
 <li><b>Turning Stocks into Memes: A Dataset for Understanding How Social Communities Can Drive Wall Street</b><br />R. Alvarez, P. Bhatt, X. Zhao, and <b>A. Rios</b><br /><i>ICWSM 2022. AAAI Conference on Web and Social Media.</i><br />[<a href="https://anthonyrios.net/other/icwsm-2022.pdf">preprint</a>]</li> <br />
@@ -43,7 +45,10 @@ For computer science publication venues, conference proceedings are highly selec
 
 ## Peer-reviewed Workshop Publications
 
-<ol start="25">
+<ol start="26">
+<li><b>BabyStories: Can Reinforcement Learning Teach Baby Language Models to Write Better Stories?.</b><br />X. Zhao, T. Wang, S. Osborn, and <b>A. Rios</b><br /><i>Proceedings of BabyLM Workshop, CoNLL, 2023.</i><br />[<a href="https://arxiv.org/abs/2310.16681">preprint</a>]</li><br />
+<li><b>UTSA NLP at SemEval-2022 Task 4: An Exploration of Simple Ensembles of Transformers, Convolutional, and Recurrent Neural Networks.</b><br />X. Zhao and <b>A. Rios</b><br /><i>Proceedings of BioNLP, ACL, 2023.</i><br />[<a href="https://aclanthology.org/2023.bionlp-1.58/">link</a>]</li><br />
+<li><b>UTSA-NLP at RadSum23: Multi-modal Retrieval-Based Chest X-Ray Report Summarization</b><br />T. Wang, X. Zhao, <b>A. Rios</b><br /><i>Proceedings of the 16th International Workshop on Semantic Evaluation, SemEval 2022.</i><br />[<a href="https://aclanthology.org/2022.semeval-1.50/">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2020/07/bionlp-2020">Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings</a></b><br /><b>A. Rios</b>, R. Joshi, and H. Shin<br /><i>Proceedings of BioNLP, ACL, 2020.</i><br />[<a href="https://anthonyrios.net/other/RiosBioNLP2020.pdf">pdf</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/11/emnlp-2019">How Many Users Are Enough?  Exploring Semi-Supervision and Stylometric Features to Uncover a Russian Troll Farm</a></b><br />N. Nasrin, K.K.R Choo, M. Ko, and <b>A. Rios</b><br /><i>Proceedings of the NLP4IF: Censorship, Disinformation, and Propaganda, EMNLP, 2019.</i><br />[<a href="https://www.aclweb.org/anthology/D19-5003/">pdf</a>][<a href="https://anthonyrios.net/other/nlp4if-emnlp2019.pdf">preprint</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2018/02/clpsych">Predicting Psychological Health from Childhood Essays with Convolutional Neural Networks for the CLPsych 2018 Shared Task (Team UKNLP)</a></b><br /><b>A. Rios</b>, T. Tran, and R. Kavuluru<br /><i>Proceedings of the Annual Computational Linguistics and Clinical Psychology Workshop (CLPsych), NAACL, 2018.</i><br />[<a href="http://aclweb.org/anthology/W18-0611 ">pdf</a>]</li><br />
