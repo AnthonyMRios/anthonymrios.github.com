@@ -5,8 +5,19 @@ permalink: /publications/
 ---
 **Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
+
+## Preprints
+<ol>
+<li><b>Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems</b><br />Đ. Klisura, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.14545, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.14545">link</a>]</li><br />
+<li><b>Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary</b><br />X. Zhao, T. Wang, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.14500, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.14500">link</a>]</li><br />
+<li><b>Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats</b><br />R. Pavlich, N. Ebadi, R. Tarbell, B. Linares, A. Tan, R. Humphreys, J.K. Das, R. Ghandiparsi, H. Haley, J. George, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.17574, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.17574">link</a>]</li><br />
+<li><b>Context Matters: An Empirical Study of the Impact of Contextual Information in Temporal Question Answering Systems</b><br />D. Schumacher, F. Haji, T. Grey, N. Bandlamudi, N. Karnik, G.U. Kumar, J.C. Chiang, P. Rad, N. Vishwamitra, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.19538, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.19538">link</a>]</li><br />
+</ol>
+
 ## Peer-reviewed Journal Publications
-<ol start="1">
+<ol start="4">
+<li><b>Does Generative Artificial Intelligence Pose a Risk to Performance Validity Test Security?</b><br />S. Lavigne, <b>A. Rios</b>, and J.J. Davis<br /><i>The Clinical Neuropsychologist, 2024.</i><br />[<a href="https://www.tandfonline.com/doi/abs/10.1080/13854046.2024.19538">link</a>]</li><br />
+<li><b>An Exploratory Mixed Methods Study about Teacher Candidates’ Descriptions of Children’s Confusion, Productive Struggle, and Mistakes in an Elementary Mathematics Methods Course</b><br />C. Kalinec-Craig and <b>A. Rios</b><br /><i>The Journal of Mathematical Behavior, 2024.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S0732312323001446">link</a>]</li>
 <li><b>A Marker-based Neural Network System for Extracting Social Determinants of Health</b><br />Xingmeng Zhao and <b>Anthony Rios</b><br /><i>In Journal of the American Medical Informatics Association (JAMIA), 2023.</i> <br />[<a href="https://arxiv.org/pdf/2212.12800.pdf">preprint</a>][<a href="https://academic.oup.com/jamia/article-abstract/30/8/1398/7100845">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2021/02/jamia">The Risk of Racial Bias while Tracking Influenza-Related Content on Social Media using Machine Learning</a></b><br />B. Lwowski and <b>A. Rios</b><br /><i>Journal of the American Medical Informatics Association (JAMIA), 2021.</i> (<b><font color="red">Featured Article and Editor's Choice</font></b>)<br />[<a href="https://anthonyrios.net/other/racial-bias-virus.pdf">preprint</a>][<a href="https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocaa326">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2019/09/jbi">Cross-registry neural domain adaptation to extract mutational test results from pathology reports</a></b><br /><b>A. Rios</b>, E.B. Durbin, I. Hands, S.M. Arnold, , D. Shah, S.M. Schwartz,  B.H. Goulart and R. Kavuluru<br /><i>Journal of Biomedical Informatics, 97, 2019.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S1532046419301868">link</a>]</li><br />
@@ -21,7 +32,9 @@ permalink: /publications/
 ## Peer-reviewed Conference Publications
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
-<ol start="10">
+<ol start="15">
+<li><b>Bike Frames: Understanding the Implicit Portrayal of Cyclists in the News</b><br />X. Zhao, D. Schumacher, S. Nalluri, X. Walton, S. Shrestha, and <b>A. Rios</b><br /><i>To Appear in AAAI ICWSM 2025.</i><br />[<a href="https://anthonyrios.net/other/AAAI-ICWSM-2025.pdf">preprint</a>]</li>
+<li><b>Extracting Biomedical Entities from Noisy Audio Transcripts</b><br />N. Ebadi, K. Morgan, A. Tan, B. Linares, S. Osborn, E. Majors, J. Davis, and <b>A. Rios</b><br /><i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 2024.</i><br />Pages 7023-7034</li><br />
 <li><b>Towards Understanding the Generalization of Medical Text-to-SQL Models and Datasets
 </b><br />R. Tarbell, R. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>In: Proceedings of the AMIA Annual Symposium, AMIA 2023</i><br />[<a href="https://arxiv.org/abs/2303.12898">preprint</a>]</li> <br />
 <li><b>Measuring Geographic Performance Disparities of Offensive Language Classifiers.
@@ -45,7 +58,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 ## Peer-reviewed Workshop Publications
 
-<ol start="26">
+<ol start="35">
 <li><b>BabyStories: Can Reinforcement Learning Teach Baby Language Models to Write Better Stories?.</b><br />X. Zhao, T. Wang, S. Osborn, and <b>A. Rios</b><br /><i>Proceedings of BabyLM Workshop, CoNLL, 2023.</i><br />[<a href="https://arxiv.org/abs/2310.16681">preprint</a>]</li><br />
 <li><b>UTSA NLP at SemEval-2022 Task 4: An Exploration of Simple Ensembles of Transformers, Convolutional, and Recurrent Neural Networks.</b><br />X. Zhao and <b>A. Rios</b><br /><i>Proceedings of BioNLP, ACL, 2023.</i><br />[<a href="https://aclanthology.org/2023.bionlp-1.58/">link</a>]</li><br />
 <li><b>UTSA-NLP at RadSum23: Multi-modal Retrieval-Based Chest X-Ray Report Summarization</b><br />T. Wang, X. Zhao, <b>A. Rios</b><br /><i>Proceedings of the 16th International Workshop on Semantic Evaluation, SemEval 2022.</i><br />[<a href="https://aclanthology.org/2022.semeval-1.50/">link</a>]</li><br />
