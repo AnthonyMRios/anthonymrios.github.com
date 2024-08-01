@@ -15,7 +15,7 @@ permalink: /publications/
 </ol>
 
 ## Peer-reviewed Journal Publications
-<ol start="4">
+<ol start="5">
 <li><b>Does Generative Artificial Intelligence Pose a Risk to Performance Validity Test Security?</b><br />S. Lavigne, <b>A. Rios</b>, and J.J. Davis<br /><i>The Clinical Neuropsychologist, 2024.</i><br />[<a href="https://www.tandfonline.com/doi/full/10.1080/13854046.2024.2379023">link</a>]</li><br />
 <li><b>An Exploratory Mixed Methods Study about Teacher Candidates’ Descriptions of Children’s Confusion, Productive Struggle, and Mistakes in an Elementary Mathematics Methods Course</b><br />C. Kalinec-Craig and <b>A. Rios</b><br /><i>The Journal of Mathematical Behavior, 2024.</i><br />[<a href="https://www.sciencedirect.com/science/article/pii/S0732312323001446">link</a>]</li><br />
 <li><b>A Marker-based Neural Network System for Extracting Social Determinants of Health</b><br />Xingmeng Zhao and <b>Anthony Rios</b><br /><i>In Journal of the American Medical Informatics Association (JAMIA), 2023.</i> <br />[<a href="https://arxiv.org/pdf/2212.12800.pdf">preprint</a>][<a href="https://academic.oup.com/jamia/article-abstract/30/8/1398/7100845">link</a>]</li><br />
@@ -32,7 +32,7 @@ permalink: /publications/
 ## Peer-reviewed Conference Publications
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
-<ol start="15">
+<ol start="16">
 <li><b>Bike Frames: Understanding the Implicit Portrayal of Cyclists in the News</b><br />X. Zhao, D. Schumacher, S. Nalluri, X. Walton, S. Shrestha, and <b>A. Rios</b><br /><i>To Appear in AAAI ICWSM 2025.</i><br />[<a href="https://arxiv.org/pdf/2301.06178">preprint</a>]</li><br />
 <li><b>Extracting Biomedical Entities from Noisy Audio Transcripts</b><br />N. Ebadi, K. Morgan, A. Tan, B. Linares, S. Osborn, E. Majors, J. Davis, and <b>A. Rios</b><br /><i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 2024.</i><br />[<a href="link">link</a>]</li><br />
 <li><b>Towards Understanding the Generalization of Medical Text-to-SQL Models and Datasets
