@@ -34,6 +34,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 <ol start="16">
 <li><b>Bike Frames: Understanding the Implicit Portrayal of Cyclists in the News</b><br />X. Zhao, D. Schumacher, S. Nalluri, X. Walton, S. Shrestha, and <b>A. Rios</b><br /><i>To Appear in AAAI ICWSM 2025.</i><br />[<a href="https://arxiv.org/pdf/2301.06178">preprint</a>]</li><br />
+<li><b>Deciphering Textual Authenticity: A Generalized Strategy through the Lens of Large Language Semantics for Detecting Human vs. Machine-Generated Text</b><br />M. Bethany, B. Wherry, E. Bethany, N. Vishwamitra, <b>A. Rios</b>, and P. Najafirad<br /><i>To Appear in the Proceedings of the 2024 Usenix Security, 2024.</i></li><br />
 <li><b>Extracting Biomedical Entities from Noisy Audio Transcripts</b><br />N. Ebadi, K. Morgan, A. Tan, B. Linares, S. Osborn, E. Majors, J. Davis, and <b>A. Rios</b><br /><i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 2024.</i><br />[<a href="link">link</a>]</li><br />
 <li><b>Towards Understanding the Generalization of Medical Text-to-SQL Models and Datasets
 </b><br />R. Tarbell, R. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>In: Proceedings of the AMIA Annual Symposium, AMIA 2023</i><br />[<a href="https://arxiv.org/abs/2303.12898">preprint</a>]</li> <br />
