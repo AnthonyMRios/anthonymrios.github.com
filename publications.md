@@ -60,8 +60,10 @@ For computer science publication venues, conference proceedings are highly selec
 
 ## Peer-reviewed Workshop Publications
 
-<ol start="35">
-<li><b>BabyStories: Can Reinforcement Learning Teach Baby Language Models to Write Better Stories?.</b><br />X. Zhao, T. Wang, S. Osborn, and <b>A. Rios</b><br /><i>Proceedings of BabyLM Workshop, CoNLL, 2023.</i><br />[<a href="https://arxiv.org/abs/2310.16681">preprint</a>]</li><br />
+<ol start="36">
+<li><b>Team UTSA-NLP at SemEval 2024 Task 5: Prompt Ensembling for Argument Reasoning in Civil Procedures with GPT4.</b><br />D. Schumacher and <b>A. Rios</b><br /><i>Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), pages 1293–1301, Mexico City, Mexico. Association for Computational Linguistics.</i><br />[  <a href="https://aclanthology.org/2024.semeval-1.187/">Link</a>]</li><br />
+<li><b>Can GPT4 Detect Euphemisms across Multiple Languages?</b><br />T. Firsich and <b>A. Rios</b><br /><i>Proceedings of the 4th Workshop on Figurative Language Processing (FigLang 2024), pages 65–72, Mexico City, Mexico (Hybrid). Association for Computational Linguistics.</i><br />[  <a href="https://aclanthology.org/2024.figlang-1.9/">Link</a>]</li><br />
+<li><b>UTSA-NLP at ChemoTimelines 2024: Evaluating Instruction-Tuned Language Models for Temporal Relation Extraction.</b><br />X. Zhao and <b>A. Rios</b><br /><i>Proceedings of the 6th Clinical Natural Language Processing Workshop, pages 604–615, Mexico City, Mexico. Association for Computational Linguistics.</i><br />[  <a href="https://aclanthology.org/2024.clinicalnlp-1.58/">Link</a>]</li><br />
 <li><b>UTSA NLP at SemEval-2022 Task 4: An Exploration of Simple Ensembles of Transformers, Convolutional, and Recurrent Neural Networks.</b><br />X. Zhao and <b>A. Rios</b><br /><i>Proceedings of BioNLP, ACL, 2023.</i><br />[<a href="https://aclanthology.org/2023.bionlp-1.58/">link</a>]</li><br />
 <li><b>UTSA-NLP at RadSum23: Multi-modal Retrieval-Based Chest X-Ray Report Summarization</b><br />T. Wang, X. Zhao, <b>A. Rios</b><br /><i>Proceedings of the 16th International Workshop on Semantic Evaluation, SemEval 2022.</i><br />[<a href="https://aclanthology.org/2022.semeval-1.50/">link</a>]</li><br />
 <li><b><a href="http://anthonyrios.net/blog/2020/07/bionlp-2020">Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings</a></b><br /><b>A. Rios</b>, R. Joshi, and H. Shin<br /><i>Proceedings of BioNLP, ACL, 2020.</i><br />[<a href="https://anthonyrios.net/other/RiosBioNLP2020.pdf">pdf</a>]</li><br />
