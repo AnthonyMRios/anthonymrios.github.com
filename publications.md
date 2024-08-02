@@ -10,7 +10,7 @@ permalink: /publications/
 <ol>
 <li><b>Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems</b><br />Đ. Klisura, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.14545, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.14545">link</a>]</li><br />
 <li><b>Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary</b><br />X. Zhao, T. Wang, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.14500, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.14500">link</a>]</li><br />
-<li><b>Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats</b><br />R. Pavlich, N. Ebadi, R. Tarbell, B. Linares, A. Tan, R. Humphreys, J.K. Das, R. Ghandiparsi, H. Haley, J. George, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.17574, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.17574">link</a>]</li><br />
+<li><b>Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats</b><br />R. Pavlich, N. Ebadi, R. Tarbell, B. Linares, A. Tan, R. Humphreys, J.K. Das, R. Ghandiparsi, H. Haley, J. George, R. Slavin, KK. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.17574, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.17574">link</a>]</li><br />
 <li><b>Context Matters: An Empirical Study of the Impact of Contextual Information in Temporal Question Answering Systems</b><br />D. Schumacher, F. Haji, T. Grey, N. Bandlamudi, N. Karnik, G.U. Kumar, J.C. Chiang, P. Rad, N. Vishwamitra, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2406.19538, 2024.</i><br />[<a href="https://arxiv.org/abs/2406.19538">link</a>]</li><br />
 </ol>
 
