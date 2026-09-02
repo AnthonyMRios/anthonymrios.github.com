@@ -4,52 +4,84 @@ title: Research
 permalink: /research/
 ---
 
+
 ## What do I do?
-Broadly speaking, my primary research interests involve biomedical and social applications of natural language processing.
 
+My research develops and evaluates natural language processing, large language model, and multimodal AI systems, with a particular focus on understanding model capabilities, robustness, security, and behavior. I study how we can better measure what AI systems know and can do, identify when and why they fail, and develop methods that make them more reliable and secure. Much of my work focuses on high-stakes settings, including healthcare, cybersecurity, and public health.
 
-## Public-Health, Social Media, and Bias
+## Understanding and Evaluating Language and Multimodal Models
 
-Social media platforms, such as Twitter, are used for many health-related applications, including, but not limited to, the early detection of disease outbreaks, monitoring adverse drug reactions, behavioral risk surveillance (such as monitoring smoking/drug use), and mining individuals mental and physical health.  While many systems have achieved high overall accuracy, it is not enough to decide whether to deploy the systems into production or to use the predictions for public health-related policy development. If a system is evaluated on the racial majority, it may achieve 90% accuracy. However, the performance on underrepresented groups may be much lower. Unfortunately, evaluating fairness is non-trivial. Many fairness metrics require the demographics to be known, or at least, inferred. It is hard to estimate fairness for groups that do not appear in the training dataset. Moreover, many datasets are not large enough to contain every minority group. Hence, much of my recent work has focused on socia media data, public health, and associated issues of bias and fairness.
+Modern language and multimodal models achieve strong performance across many tasks, but it is often unclear what these systems have actually learned, how reliably their capabilities can be measured, and how well they generalize across populations and domains. My research develops methods for evaluating model capabilities, internal representations, robustness, fairness, and human-AI interaction.
+
+A major theme of this work is that aggregate performance alone is not enough to determine whether an AI system is reliable. For example, models may perform differently across demographic groups, prompting may underestimate information available within a model's internal representations, retrieval may not consistently improve model performance, and people may interpret or interact with AI systems in unexpected ways. My work develops methods and evaluations that help identify these limitations and better characterize the capabilities of modern AI systems.
+
+My earlier work in this area studied fairness and reliability in NLP systems, including racial and dialect-related disparities, biases in biomedical language, and the reliability of learned representations. More recently, this research has expanded to large language and vision-language models, model probing, retrieval-augmented generation, and human-AI interaction.
 
 ### Relevant Publications
 
-1. Lwowski, B., & Rios, A. (2021). The risk of racial bias while tracking influenza-related content on social media using machine learning. Journal of the American Medical Informatics Association, 28(4), 839-849.
-2. Pritom, M. M. A., Rodriguez, R. M., Khan, A. A., Nugroho, S. A., Alrashydah, E., Ruiz, B. N., & Rios, A. (2021). Case study on detecting COVID-19 health-related misinformation in social media. arXiv e-prints, arXiv:2106.
-3. Rios, A. (2020). FuzzE: Fuzzy fairness evaluation of offensive language classifiers on African-American English. Proceedings of the AAAI Conference on Artificial Intelligence, 34(1).
-4. Rios, A., & Lwowski, B. (2020). An empirical study of the downstream reliability of pre-trained word embeddings. In Proceedings of the 28th International Conference on Computational Linguistics.
-5. Rios, A., Joshi, R., & Shin, H. (2020). Quantifying 60 years of gender bias in biomedical research with word embeddings. In Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing.
+1. Schumacher, D., Rajarajan, P. D., Kotara, H., Rendon, R., Atupulazi, K., Tagare, D., Sanusi, I. T., Martin, F. G., & Rios, A. (2026). Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting? *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
 
-### Funding
+2. Nourbakhsh, E., Yang, K., & Rios, A. (2026). MedProb: Probing Internal Representations of Vision-Language Models for Medical Question Answering. *Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
+
+3. Lwowski, B., & Rios, A. (2021). The risk of racial bias while tracking influenza-related content on social media using machine learning. *Journal of the American Medical Informatics Association, 28*(4), 839-849.
+
+4. Rios, A. (2020). FuzzE: Fuzzy fairness evaluation of offensive language classifiers on African-American English. *Proceedings of the AAAI Conference on Artificial Intelligence, 34*(1).
+
+5. Rios, A., & Lwowski, B. (2020). An empirical study of the downstream reliability of pre-trained word embeddings. *Proceedings of the 28th International Conference on Computational Linguistics (COLING)*.
+
+## AI Security and Access Control
+
+My research studies both the use of AI for security and the security of AI systems. AI for security includes developing methods that identify and reason about malicious activity, such as detecting coordinated social media accounts, distinguishing human-generated from machine-generated text, and analyzing cybersecurity and network data.
+
+I also study vulnerabilities that arise when language models are integrated into databases, software systems, and other applications. This work includes attacks against text-to-SQL systems and methods for evaluating whether large language models correctly follow access-control policies. More broadly, I am interested in how security policies, organizational roles, and permissions can be represented, evaluated, and enforced in AI systems.
+
+### Relevant Publications
+
+1. Klisura, Đ., Khoury, J., Kundu, A., Krishnan, R., & Rios, A. (2026). Role-Conditioned Refusals: Evaluating Access Control Reasoning in Large Language Models. *Findings of the Association for Computational Linguistics: EACL 2026*.
+
+2. Bethany, M., Wherry, B., Bethany, E., Vishwamitra, N., Rios, A., & Najafirad, P. (2024). Deciphering textual authenticity: A generalized strategy through the lens of large language semantics for detecting human vs. machine-generated text. *33rd USENIX Security Symposium*.
+
+3. Klisura, Đ., & Rios, A. (2024). Unmasking database vulnerabilities: Zero-knowledge schema inference attacks in text-to-SQL systems. *arXiv preprint arXiv:2406.14545*.
+
+4. Pavlich, R., Ebadi, N., Tarbell, R., Linares, B., Tan, A., Humphreys, R., Das, J. K., Ghandiparsi, R., Haley, H., George, J., Slavin, R., Choo, K. K., Dietrich, G., & Rios, A. (2024). Beyond text-to-SQL for IoT defense: A comprehensive framework for querying and classifying IoT threats. *arXiv preprint arXiv:2406.17574*.
+
+5. Bhatt, P., & Rios, A. (2021). Detecting bot-generated text by characterizing linguistic accommodation in human-bot interactions. *Findings of ACL-IJCNLP*, 3235-3247.
+
+6. Nasrin, N., Choo, K. K. R., Ko, M., & Rios, A. (2019). How many users are enough? Exploring semi-supervision and stylometric features to uncover a Russian troll farm. *Proceedings of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda*, 20-30.
+
+## Biomedical and Healthcare AI
+
+Biomedical and healthcare applications have been a major focus of my research. Healthcare AI systems must operate across heterogeneous data sources, limited training data, changing domains, and settings where incorrect predictions can have meaningful consequences. My research develops NLP and multimodal AI methods for extracting, representing, and reasoning over biomedical and clinical information while also studying when these systems generalize and when they fail.
+
+My earlier work focused on medical coding, biomedical information extraction, transfer learning, domain adaptation, and few-shot learning. More recently, this research has expanded to large language and vision-language models, medical question answering, biomedical retrieval-augmented generation, and human-AI interaction in healthcare.
+
+A central goal of this work is to move beyond overall accuracy and better understand the reliability of healthcare AI systems. This includes studying what information models encode internally, whether additional information such as retrieved biomedical evidence actually improves their predictions, how models behave across datasets and populations, and how people may be affected by the use of generative AI in healthcare.
+
+### Relevant Publications
+
+1. Zhao, X., Wang, T., Schumacher, D., Rammouz, V., & Rios, A. (2026). Telling Speculative Stories to Help Humans Imagine the Harms of Healthcare AI. *Findings of the Association for Computational Linguistics: ACL 2026*.
+
+2. Nourbakhsh, E., Slavin, R., Yang, K., & Rios, A. (2026). When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG. *BioNLP 2026*.
+
+3. Nourbakhsh, E., Yang, K., & Rios, A. (2026). MedProb: Probing Internal Representations of Vision-Language Models for Medical Question Answering. *Findings of EMNLP 2026*.
+
+4. Rios, A., & Kavuluru, R. (2019). Neural transfer learning for assigning diagnosis codes to EMRs. *Artificial Intelligence in Medicine, 96*, 116-122.
+
+5. Rios, A., Durbin, E. B., Hands, I., Arnold, S. M., Shah, D., Schwartz, S. M., Goulart, B. H. L., & Kavuluru, R. (2019). Cross-registry neural domain adaptation to extract mutational test results from pathology reports. *Journal of Biomedical Informatics, 97*, 103267.
+
+6. Rios, A., & Kavuluru, R. (2018). EMR coding with semi-parametric multi-head matching networks. *Proceedings of NAACL*.
+
+7. Rios, A., & Kavuluru, R. (2018). Few-shot and zero-shot multi-label learning for structured label spaces. *Proceedings of EMNLP*.
+
+8. Rios, A., & Kavuluru, R. (2015). Convolutional neural networks for biomedical text classification: Application in indexing biomedical articles. *Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Health Informatics*.
+
+## Selected Research Funding
 
 **CRII: SCH: A Computational Framework for Fair Public Health-Related Decisions.**<br/>
-National Science Foundation. CISE: IIS. 04/01/2020-03/31/2022. \$174,797<br/>
+National Science Foundation. CISE: IIS. 04/01/2020-03/31/2022. $174,797<br/>
 PI: *Anthony Rios*
 
-
-## Security and Public Saftey Applications of NLP
-My research focuses on the security of AI and the application of AI for enhancing security, addressing critical vulnerabilities and leveraging AI capabilities to improve safety measures. The AI for security involves developing robust detection methods to identify malicious activities, such as state-affiliated trolls infiltrating social media or advanced language models generating misleading content. By integrating novel features grounded in stylometry and human interaction patterns, my work significantly enhances the accuracy and resilience of these systems. Likewise, we have developed systems that can query secruity-related databases (e.g., network traffic) and reason about potential attacks that appeared within the database. In parallel, security for AI explores vulnerabilities in NLP technologies, like text-to-SQL systems, to detect and mitigate threats, which can be used to steal company secrets or prepare SQL injection attacks. Through innovative datasets and frameworks, my research demonstrates how AI can effectively infer critical information and protect data, ultimately enhancing both the security of AI systems and the broader digital security landscape. This dual approach ensures that while AI systems become more secure against threats, they also contribute to more robust security solutions in various domains.
-
-### Relevant Publications
-1. Bhatt, P., & Rios, A. (2021). Detecting bot-generated text by characterizing linguistic accommodation in human-bot interactions. ACL/IJCNLP (Findings), 3235-3247.
-2. Nasrin, N., Choo, K. K. R., Ko, M., & Rios, A. (2019). How many users are enough? Exploring semi-supervision and stylometric features to uncover a Russian troll farm. In Proceedings of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda (pp. 20-30).
-3. Klisura, Đ., & Rios, A. (2024). Unmasking database vulnerabilities: Zero-knowledge schema inference attacks in text-to-SQL systems. arXiv preprint arXiv:2406.14545.
-4. Pavlich, R., Ebadi, N., Tarbell, R., Linares, B., Tan, A., Humphreys, R., Das, J. K., Ghandiparsi, R., Haley, H., George, J., Slavin, R., Choo, K. K., Dietrich, G., & Rios, A. (2024). Beyond text-to-SQL for IoT defense: A comprehensive framework for querying and classifying IoT threats. arXiv preprint arXiv:2406.17574.
-5. Bethany, M., Wherry, B., Bethany, E., Vishwamitra, N., Rios, A., & Najafirad, P. (2024). Deciphering textual authenticity: A generalized strategy through the lens of large language semantics for detecting human vs. machine-generated text. Usenix Security 2024.
-
-
-### Funding
 **Machine Learning-centric Cyber Threat Intelligence and Hunting for IoT Systems**<br/>
-National Security Agency. Cybersecurity Research Innovation Grant. 08/01/2021-07/31/2023. \$464,153<br/>
-PI: *Anthony Rios* Co-PI(s): Glenn Dietrich and Raymond Choo
+National Security Agency. Cybersecurity Research Innovation Grant. 08/01/2021-07/31/2023. $464,153<br/>
+PI: *Anthony Rios*; Co-PIs: Glenn Dietrich and Raymond Choo
 
-
-## Biomedical NLP Applications
-Language shapes the world we live in. Information is shared among individuals through verbal and written communication, including biomedical information. Doctors write notes describing patient symptoms, medical history, and diagnoses. The notes are used annotated by hospitals for billing purposes, e.g., <a href="https://anthonyrios.net/blog/2018/02/naacl"><b>medical coding</b></a>. Scientists write research articles creating new information, including, but not limited to, new <a href="https://anthonyrios.net/blog/2017/08/ichi"><b>drug-drug</b></a>, drug-gene, and <a href="https://anthonyrios.net/blog/2018/03/bioinformatics-2018"><b>gene-gene</b></a> interactions. On social media, such as Facebook and Twitter, users describe life events giving insight on the users mental and physical health, indicating possible <a href="https://anthonyrios.net/blog/2017/11/smmh"><b>adverse drug events</b></a>, depression, or PTSD. I develop methods that can extract biomedical information from many textual data sources.
-
-### Related Publications
-1. Rios, A., & Kavuluru, R. (2019). Neural transfer learning for assigning diagnosis codes to EMRs. Artificial Intelligence in Medicine, 96, 116-122.
-2. Rios, A., Durbin, E. B., Hands, I., Arnold, S. M., Shah, D., Schwartz, S. M., Goulart, B. H. L., & Kavuluru, R. (2019). Cross-registry neural domain adaptation to extract mutational test results from pathology reports. Journal of Biomedical Informatics, 97, 103267.
-3. Rios, A., & Kavuluru, R. (2018). EMR coding with semi-parametric multi-head matching networks. In Proceedings of the conference. Association for Computational Linguistics. North American Chapter. Meeting (Vol. 2018).
-4. Rios, A., & Kavuluru, R. (2018). Few-shot and zero-shot multi-label learning for structured label spaces. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2018).
-5. Rios, A., & Kavuluru, R. (2015). Convolutional neural networks for biomedical text classification: Application in indexing biomedical articles. In Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics.
