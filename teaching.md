@@ -17,6 +17,8 @@ permalink: /teaching/
 * Veronica Rammouz, Information Technology Ph.D. student
 * Vishalakshi Arumugam, Information Technology Ph.D. student
 * Urmi Sen, Information Technology Ph.D. student
+* Todd Firsich , Information Technology Ph.D. student
+* Faruk Dziho, Information Technology Ph.D. student
 
 ### Graduated Students
 
