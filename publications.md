@@ -150,7 +150,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 <li><b>Comparing Clinical and General LLMs on Knowledge Boundaries and Robustness</b><br />X. Zhao, K. Yang, and <b>A. Rios</b><br /><i>Mechanistic Interpretability Workshop at NeurIPS 2025.</i><br />[<a href="https://openreview.net/pdf?id=6TIxFMoA4k">link</a>][<a href="https://github.com/Zephyr1022/knowledge-boundaries">code</a>]</li><br />
 
-<li><b>UTSA-NLP at ArchEHR-QA 2025: Improving EHR Question Answering via Self-Consistency Prompting</b><br />S. Shields-Menard, Z. Reimers, J. Gardner, D. Perry, and <b>A. Rios</b><br /><i>Proceedings of the 24th Workshop on Biomedical Language Processing (BioNLP 2025), ACL 2025.</i><br />[<a href="https://aclanthology.org/2025.bionlp-share.10/">link</a>][<a href="https://github.com/biodatlab/archehr-qa-lamar">code</a>]</li><br />
+<li><b>UTSA-NLP at ArchEHR-QA 2025: Improving EHR Question Answering via Self-Consistency Prompting</b><br />S. Shields-Menard, Z. Reimers, J. Gardner, D. Perry, and <b>A. Rios</b><br /><i>Proceedings of the 24th Workshop on Biomedical Language Processing (BioNLP 2025), ACL 2025.</i><br />[<a href="https://aclanthology.org/2025.bionlp-share.10/">link</a>]</li><br />
 
 <li><b>Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats</b><br />R. Pavlich, N. Ebadi, R. Tarbell, B. Linares, A. Tan, R. Humphreys, J.K. Das, R. Ghandiparsi, H. Haley, J. George, R. Slavin, K.K.R. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>TrustNLP Workshop at NAACL 2025.</i><br />[<a href="https://arxiv.org/abs/2406.17574">preprint</a>][<a href="https://aclanthology.org/2025.trustnlp-main.1/">link</a>][<a href="https://zenodo.org/records/15000588">data</a>]</li><br />
 
