@@ -13,12 +13,13 @@ permalink: /teaching/
 
 ### Current Students
 
-* Dan Schumacher, Information Technology Ph.D. student
-* Veronica Rammouz, Information Technology Ph.D. student
-* Vishalakshi Arumugam, Information Technology Ph.D. student
-* Urmi Sen, Information Technology Ph.D. student
-* Todd Firsich , Information Technology Ph.D. student
-* Faruk Dziho, Information Technology Ph.D. student
+* Dan Schumacher (full-time), Information Technology Ph.D. student
+* Veronica Rammouz (full-time), Information Technology Ph.D. student
+* Vishalakshi Arumugam (part-time), Information Technology Ph.D. student
+* Urmi Sen (full-time), Information Technology Ph.D. student
+* Todd Firsich (part-time), Information Technology Ph.D. student
+* Faruk Dziho (part-time), Information Technology Ph.D. student
+* Jason Gillette (part-time), Information Technology Ph.D. student
 
 ### Graduated Students
 
