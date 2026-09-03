@@ -5,13 +5,11 @@ permalink: /publications/
 ---
 **Other Pages**: [Google Scholar](https://scholar.google.com/citations?user=KJr3ptUAAAAJ&hl=en) -- [DBLP](http://dblp.uni-trier.de/pers/hd/r/Rios:Anthony) -- [ACL Anthology](https://aclweb.org/anthology/people/a/anthony-rios/) -- [My NCBI](https://www.ncbi.nlm.nih.gov/myncbi/anthony.rios.1/bibliography/public/)
 
-
-
 ## Preprints
 
 <ol>
 
-<li><b>Prompting Underestimates LLM Capability for Time Series Classification</b><br />D. Schumacher, E. Nourbakhsh, R. Slavin, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2601.03464, 2026.</i><br />[<a href="https://arxiv.org/abs/2601.03464">link</a>]</li><br />
+<li><b>Prompting Underestimates LLM Capability for Time Series Classification</b><br />D. Schumacher, E. Nourbakhsh, R. Slavin, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2601.03464, 2026.</i><br />[<a href="https://arxiv.org/abs/2601.03464">link</a>][<a href="https://github.com/danschumac1/PromptingUnderestimates">code</a>]</li><br />
 
 <li><b>Can We Reliably Rank Model Performance across Domains without Labeled Data?</b><br />V. Rammouz, A. Gonzalez, C. Cruzportillo, A. Tan, N. Beebe, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2510.09519, 2025.</i><br />[<a href="https://arxiv.org/abs/2510.09519">link</a>]</li><br />
 
@@ -51,7 +49,7 @@ permalink: /publications/
 
 <ol start="16">
 
-<li><b>Who Is Guiding this Ship?: Disciplinary Professional Organisations Guidance for Teachers Using Generative Artificial Intelligence to Develop Culturally Responsive Materials</b><br />C. Kalinec-Craig, Ş. Tekin, T. Yuen, and <b>A. Rios</b><br /><i>Artificial Intelligence for Advancing Education Quality and Inclusion: Practices across Educational Settings, pp. 115-133, Springer, 2026.</i></li><br />
+<li><b>Who Is Guiding this Ship?: Disciplinary Professional Organisations Guidance for Teachers Using Generative Artificial Intelligence to Develop Culturally Responsive Materials</b><br />C. Kalinec-Craig, Ş. Tekin, T. Yuen, and <b>A. Rios</b><br /><i>Artificial Intelligence for Advancing Education Quality and Inclusion: Practices across Educational Settings, pp. 115-133, Springer, 2026.</i><br />[<a href="https://doi.org/10.1007/978-3-032-12174-5_7">link</a>]</li><br />
 
 </ol>
 
@@ -61,43 +59,43 @@ For computer science publication venues, conference proceedings are highly selec
 
 <ol start="17">
 
-<li><b>Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting?</b><br />D. Schumacher, P.D. Rajarajan, H. Kotara, R. Rendon, K. Atupulazi, D. Tagare, I.T. Sanusi, F.G. Martin, and <b>A. Rios</b><br /><i>To appear in the Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Main Conference.</i><br />[<a href="https://arxiv.org/abs/2608.30948">preprint</a>]</li><br />
+<li><b>Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting?</b><br />D. Schumacher, P.D. Rajarajan, H. Kotara, R. Rendon, K. Atupulazi, D. Tagare, I.T. Sanusi, F.G. Martin, and <b>A. Rios</b><br /><i>To appear in the Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Main Conference.</i><br />[<a href="https://arxiv.org/abs/2608.30948">preprint</a>][<a href="https://github.com/danschumac1/MiddleSchoolersIdentify">code</a>]</li><br />
 
 <li><b>MedProb: Probing Internal Representations of Vision-Language Models for Medical Question Answering</b><br />E. Nourbakhsh, K. Yang, and <b>A. Rios</b><br /><i>To appear in Findings of the Association for Computational Linguistics: EMNLP 2026.</i><br />[<a href="https://github.com/erfan-nourbakhsh/MedProb">code</a>]</li><br />
 
-<li><b>TRACER: Early Failure Detection for Task-Oriented Dialogue</b><br />E. Nourbakhsh, R. Slavin, K. Yang, and <b>A. Rios</b><br /><i>Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026), pp. 614-635.</i><br />[<a href="https://arxiv.org/abs/2607.03974">preprint</a>][<a href="https://aclanthology.org/volumes/2026.sigdial-1/">link</a>][<a href="https://github.com/erfan-nourbakhsh/TRACER">code</a>]</li><br />
+<li><b>TRACER: Early Failure Detection for Task-Oriented Dialogue</b><br />E. Nourbakhsh, R. Slavin, K. Yang, and <b>A. Rios</b><br /><i>Proceedings of the 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026), pp. 614-635.</i><br />[<a href="https://arxiv.org/abs/2607.03974">preprint</a>][<a href="https://aclanthology.org/2026.sigdial-1.44/">link</a>][<a href="https://github.com/erfan-nourbakhsh/TRACER">code</a>]</li><br />
 
-<li><b>Telling Speculative Stories to Help Humans Imagine the Harms of Healthcare AI</b><br />X. Zhao, T. Wang, D. Schumacher, V. Rammouz, and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: ACL 2026, pp. 8476-8516.</i><br />[<a href="https://aclanthology.org/2026.findings-acl.413/">link</a>][<a href="https://github.com/Zephyr1022/speculative-storytelling-healthcare">code</a>]</li><br />
+<li><b>Telling Speculative Stories to Help Humans Imagine the Harms of Healthcare AI</b><br />X. Zhao, T. Wang, D. Schumacher, V. Rammouz, and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: ACL 2026, pp. 8476-8516.</i><br />[<a href="https://arxiv.org/abs/2510.14718">preprint</a>][<a href="https://aclanthology.org/2026.findings-acl.413/">link</a>][<a href="https://github.com/Zephyr1022/speculative-storytelling-healthcare">code</a>]</li><br />
 
 <li><b>Rethinking Access-Control Policy Authoring as a Multimodal Challenge</b><br />S. Lawal, X. Zhao, E. Navarro, <b>A. Rios</b>, and R. Krishnan<br /><i>Proceedings of the 31st ACM Symposium on Access Control Models and Technologies (SACMAT 2026), pp. 246-255.</i><br />[<a href="https://doi.org/10.1145/3750555.3811882">link</a>][<a href="https://github.com/UTSA-ICS/Rethinking-Access-Control-Policy-Authoring-as-a-Multimodal-Challenge">code</a>]</li><br />
 
-<li><b>Role-Conditioned Refusals: Evaluating Access Control Reasoning in Large Language Models</b><br />Đ. Klisura, J. Khoury, A. Kundu, R. Krishnan, and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: EACL 2026, pp. 6018-6034.</i><br />[<a href="https://aclanthology.org/2026.findings-eacl.316/">link</a>][<a href="https://github.com/klisura-code/LLM-Access-Control-Datasets">code</a>]</li><br />
+<li><b>Role-Conditioned Refusals: Evaluating Access Control Reasoning in Large Language Models</b><br />Đ. Klisura, J. Khoury, A. Kundu, R. Krishnan, and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: EACL 2026, pp. 6018-6034.</i><br />[<a href="https://arxiv.org/abs/2510.07642">preprint</a>][<a href="https://aclanthology.org/2026.findings-eacl.316/">link</a>][<a href="https://github.com/klisura-code/LLM-Access-Control-Datasets">code</a>]</li><br />
 
-<li><b>Bridging the Data Divide: An Experiential Learning Approach to Preparing Students for Artificial Intelligence-Driven Careers</b><br />I. Thacker, Y.-F. Jin, I. Koyuncu, <b>A. Rios</b>, and J. Niu<br /><i>2026 ASEE Annual Conference &amp; Exposition, 2026.</i></li><br />
+<li><b>Bridging the Data Divide: An Experiential Learning Approach to Preparing Students for Artificial Intelligence-Driven Careers</b><br />I. Thacker, Y.-F. Jin, I. Koyuncu, <b>A. Rios</b>, and J. Niu<br /><i>2026 ASEE Annual Conference &amp; Exposition, 2026.</i><br />[<a href="https://peer.asee.org/59686">link</a>]</li><br />
 
-<li><b>Reflective Agreement: Combining Self-Mixture of Agents with a Sequence Tagger for Robust Event Extraction</b><br />F. Haji, M. Bethany, C.-Y.J. Chiang, <b>A. Rios</b>, and P. Najafirad<br /><i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), pp. 30476-30492.</i><br />[<a href="https://aclanthology.org/2025.emnlp-main.1550/">link</a>]</li><br />
+<li><b>Reflective Agreement: Combining Self-Mixture of Agents with a Sequence Tagger for Robust Event Extraction</b><br />F. Haji, M. Bethany, C.-Y.J. Chiang, <b>A. Rios</b>, and P. Najafirad<br /><i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), pp. 30476-30492.</i><br />[<a href="https://arxiv.org/abs/2508.19359">preprint</a>][<a href="https://aclanthology.org/2025.emnlp-main.1550/">link</a>]</li><br />
 
-<li><b>Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach</b><br />J. Ford and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: EMNLP 2025, pp. 25160-25173.</i><br />[<a href="https://aclanthology.org/2025.findings-emnlp.1371/">link</a>]</li><br />
+<li><b>Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach</b><br />J. Ford and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: EMNLP 2025, pp. 25160-25173.</i><br />[<a href="https://arxiv.org/abs/2506.06175">preprint</a>][<a href="https://aclanthology.org/2025.findings-emnlp.1371/">link</a>]</li><br />
 
 <li><b>RASTeR: Robust, Agentic, and Structured Temporal Reasoning</b><br />D. Schumacher, F. Haji, T. Grey, N. Bandlamudi, N. Karnik, G.U. Kumar, C.-Y.J. Chiang, P. Najafirad, N. Vishwamitra, and <b>A. Rios</b><br /><i>Proceedings of IJCNLP-AACL 2025, pp. 3098-3123.</i><br />[<a href="https://aclanthology.org/2025.ijcnlp-long.166/">link</a>][<a href="https://github.com/danschumac1/RASTeR">code</a>]</li><br />
 
-<li><b>Simplified Rewriting Improves Expert Summarization</b><br />X. Zhao, T. Wang, and <b>A. Rios</b><br /><i>Proceedings of IJCNLP-AACL 2025, pp. 3075-3097.</i><br />[<a href="https://aclanthology.org/2025.ijcnlp-long.165/">link</a>]</li><br />
+<li><b>Simplified Rewriting Improves Expert Summarization</b><br />X. Zhao, T. Wang, and <b>A. Rios</b><br /><i>Proceedings of IJCNLP-AACL 2025, pp. 3075-3097.</i><br />[<a href="https://arxiv.org/abs/2406.14500">preprint</a>][<a href="https://aclanthology.org/2025.ijcnlp-long.165/">link</a>]</li><br />
 
-<li><b>A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems</b><br />Đ. Klisura, A.R.B. Torres, A.K. Gárate-Escamilla, R.R. Biswal, K. Yang, H. Pataci, and <b>A. Rios</b><br /><i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), pp. 32318-32337.</i><br />[<a href="https://aclanthology.org/2025.acl-long.1554/">link</a>]</li><br />
+<li><b>A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems</b><br />Đ. Klisura, A.R.B. Torres, A.K. Gárate-Escamilla, R.R. Biswal, K. Yang, H. Pataci, and <b>A. Rios</b><br /><i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), pp. 32318-32337.</i><br />[<a href="https://arxiv.org/abs/2506.02998">preprint</a>][<a href="https://aclanthology.org/2025.acl-long.1554/">link</a>]</li><br />
 
-<li><b>Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems</b><br />Đ. Klisura and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: NAACL 2025.</i><br />[<a href="https://aclanthology.org/2025.findings-naacl.386/">link</a>][<a href="https://github.com/klisura-code/Text2SQL-Project">code</a>]</li><br />
+<li><b>Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems</b><br />Đ. Klisura and <b>A. Rios</b><br /><i>Findings of the Association for Computational Linguistics: NAACL 2025.</i><br />[<a href="https://arxiv.org/abs/2406.14545">preprint</a>][<a href="https://aclanthology.org/2025.findings-naacl.386/">link</a>][<a href="https://github.com/klisura-code/Text2SQL-Project">code</a>]</li><br />
 
-<li><b>Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations</b><br />J. Ford, X. Zhao, D. Schumacher, and <b>A. Rios</b><br /><i>Proceedings of COLING 2025.</i></li><br />
+<li><b>Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations</b><br />J. Ford, X. Zhao, D. Schumacher, and <b>A. Rios</b><br /><i>Proceedings of COLING 2025.</i><br />[<a href="https://arxiv.org/abs/2409.18764">preprint</a>][<a href="https://aclanthology.org/2025.coling-main.501/">link</a>]</li><br />
 
-<li><b>FairPrivacy: A Robust Q&amp;A System for Enhancing Transparency in IoT</b><br />T.H. Richardson, Đ. Klisura, H. Pataci, and <b>A. Rios</b><br /><i>AMCIS 2025.</i></li><br />
+<li><b>FairPrivacy: A Robust Q&amp;A System for Enhancing Transparency in IoT</b><br />T.H. Richardson, Đ. Klisura, H. Pataci, and <b>A. Rios</b><br /><i>AMCIS 2025.</i><br />[<a href="https://aisel.aisnet.org/amcis2025/sig_sec/sig_sec/48/">link</a>]</li><br />
 
-<li><b>Extracting Causal Relational Rules for Medical Question-Answering Tasks using Large Language Models</b><br />M.S. Rahman, Y. Zhang, <b>A. Rios</b>, and K. Yang<br /><i>Proceedings of the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2025), pp. 464-469.</i></li><br />
+<li><b>Extracting Causal Relational Rules for Medical Question-Answering Tasks using Large Language Models</b><br />M.S. Rahman, Y. Zhang, <b>A. Rios</b>, and K. Yang<br /><i>Proceedings of the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2025), pp. 464-469.</i><br />[<a href="https://doi.org/10.1145/3721201.3725434">link</a>]</li><br />
 
 <li><b>Translating Natural Language Specifications into Access Control Policies by Leveraging Large Language Models</b><br />S. Lawal, X. Zhao, <b>A. Rios</b>, R. Krishnan, and D. Ferraiolo<br /><i>2024 IEEE 6th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA), pp. 361-370.</i></li><br />
 
 <li><b>A Dataset for the Prediction of Spanish Language Fluency by Quantification of Linguistic Components with Artificial Intelligence</b><br />B.P. Wilson, <b>A. Rios</b>, A. Fernandez, M. Rushforth, S. Ang, J. Quarles, and M.A. Flores<br /><i>Proceedings of the 2024 8th International Conference on Natural Language Processing and Information Retrieval, pp. 206-211.</i></li><br />
 
-<li><b>Bike Frames: Understanding the Implicit Portrayal of Cyclists in the News</b><br />X. Zhao, D. Schumacher, S. Nalluri, X. Walton, S. Shrestha, and <b>A. Rios</b><br /><i>AAAI ICWSM 2025.</i><br />[<a href="https://arxiv.org/pdf/2301.06178">preprint</a>][<a href="https://github.com/Zephyr1022/BikeFrames">code</a>]</li><br />
+<li><b>Bike Frames: Understanding the Implicit Portrayal of Cyclists in the News</b><br />X. Zhao, D. Schumacher, S. Nalluri, X. Walton, S. Shrestha, and <b>A. Rios</b><br /><i>AAAI ICWSM 2025.</i><br />[<a href="https://arxiv.org/pdf/2301.06178">preprint</a>][<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35934">link</a>][<a href="https://github.com/Zephyr1022/BikeFrames">code</a>]</li><br />
 
 <li><b>A Comprehensive Study of Gender Bias in Chemical Named Entity Recognition Models</b><br />Zhao, X., Niazi, A., and <b>Rios, A.</b><br /><i>In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 4360-4374).</i><br />[<a href="https://aclanthology.org/2024.naacl-long.245/">link</a>]</li><br />
 
@@ -147,13 +145,13 @@ For computer science publication venues, conference proceedings are highly selec
 
 <ol start="54">
 
-<li><b>When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG</b><br />E. Nourbakhsh, R. Slavin, K. Yang, and <b>A. Rios</b><br /><i>Proceedings of the 25th Workshop on Biomedical Language Processing (BioNLP 2026), ACL 2026.</i><br />[<a href="https://arxiv.org/abs/2606.04127">preprint</a>][<a href="https://aclanthology.org/events/bionlp-2026/">link</a>][<a href="https://github.com/erfan-nourbakhsh/BioMedicalRAG">code</a>]</li><br />
+<li><b>When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG</b><br />E. Nourbakhsh, R. Slavin, K. Yang, and <b>A. Rios</b><br /><i>Proceedings of the 25th Workshop on Biomedical Language Processing (BioNLP 2026), ACL 2026.</i><br />[<a href="https://arxiv.org/abs/2606.04127">preprint</a>][<a href="https://aclanthology.org/2026.bionlp-1.72/">link</a>][<a href="https://github.com/erfan-nourbakhsh/BioMedicalRAG">code</a>]</li><br />
 
-<li><b>Comparing Clinical and General LLMs on Knowledge Boundaries and Robustness</b><br />X. Zhao, K. Yang, and <b>A. Rios</b><br /><i>Mechanistic Interpretability Workshop at NeurIPS 2025.</i><br />[<a href="https://github.com/Zephyr1022/knowledge-boundaries">code</a>]</li><br />
+<li><b>Comparing Clinical and General LLMs on Knowledge Boundaries and Robustness</b><br />X. Zhao, K. Yang, and <b>A. Rios</b><br /><i>Mechanistic Interpretability Workshop at NeurIPS 2025.</i><br />[<a href="https://openreview.net/pdf?id=6TIxFMoA4k">link</a>][<a href="https://github.com/Zephyr1022/knowledge-boundaries">code</a>]</li><br />
 
 <li><b>UTSA-NLP at ArchEHR-QA 2025: Improving EHR Question Answering via Self-Consistency Prompting</b><br />S. Shields-Menard, Z. Reimers, J. Gardner, D. Perry, and <b>A. Rios</b><br /><i>Proceedings of the 24th Workshop on Biomedical Language Processing (BioNLP 2025), ACL 2025.</i><br />[<a href="https://aclanthology.org/2025.bionlp-share.10/">link</a>][<a href="https://github.com/biodatlab/archehr-qa-lamar">code</a>]</li><br />
 
-<li><b>Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats</b><br />R. Pavlich, N. Ebadi, R. Tarbell, B. Linares, A. Tan, R. Humphreys, J.K. Das, R. Ghandiparsi, H. Haley, J. George, R. Slavin, K.K.R. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>TrustNLP Workshop at NAACL 2025.</i></li><br />
+<li><b>Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats</b><br />R. Pavlich, N. Ebadi, R. Tarbell, B. Linares, A. Tan, R. Humphreys, J.K. Das, R. Ghandiparsi, H. Haley, J. George, R. Slavin, K.K.R. Choo, G. Dietrich, and <b>A. Rios</b><br /><i>TrustNLP Workshop at NAACL 2025.</i><br />[<a href="https://arxiv.org/abs/2406.17574">preprint</a>][<a href="https://aclanthology.org/2025.trustnlp-main.1/">link</a>][<a href="https://zenodo.org/records/15000588">data</a>]</li><br />
 
 <li><b>Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent</b><br />F. Haji, M. Bethany, M. Tabar, J. Chiang, <b>A. Rios</b>, and P. Najafirad<br /><i>NeurIPS 2024 Workshop on Safe &amp; Trustworthy Agents.</i><br />[<a href="https://github.com/SecureAIAutonomyLab/MA-ToT">code</a>]</li><br />
 
