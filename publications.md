@@ -10,17 +10,13 @@ permalink: /publications/
 
 <ol>
 
-<li><b>Prompting Underestimates LLM Capability for Time Series Classification</b><br />D. Schumacher, E. Nourbakhsh, R. Slavin, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2601.03464, 2026.</i><br />[<a href="https://arxiv.org/abs/2601.03464">link</a>][<a href="https://github.com/danschumac1/PromptingUnderestimates">code</a>]</li><br />
-
-<li><b>Can We Reliably Rank Model Performance across Domains without Labeled Data?</b><br />V. Rammouz, A. Gonzalez, C. Cruzportillo, A. Tan, N. Beebe, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2510.09519, 2025.</i><br />[<a href="https://arxiv.org/abs/2510.09519">link</a>]</li><br />
-
 <li><b>How AI Forecasts AI Jobs: Benchmarking LLM Predictions of Labor Market Changes</b><br />S. Osborn, R. Valecha, H.R. Rao, D. Sass, and <b>A. Rios</b><br /><i>arXiv preprint arXiv:2510.23358, 2025.</i><br />[<a href="https://arxiv.org/abs/2510.23358">link</a>]</li><br />
 
 </ol>
 
 ## Peer-reviewed Journal Publications
 
-<ol start="4">
+<ol>
 
 <li><b>Does Generative Artificial Intelligence Pose a Risk to Performance Validity Test Security?</b><br />S. Lavigne, <b>A. Rios</b>, and J. Davis<br /><i>The Clinical Neuropsychologist, 40(3), 848-861, 2026.</i><br />[<a href="https://www.tandfonline.com/doi/full/10.1080/13854046.2024.2379023">link</a>]</li><br />
 
@@ -48,7 +44,7 @@ permalink: /publications/
 
 ## Peer-reviewed Book Chapters
 
-<ol start="16">
+<ol>
 
 <li><b>Who Is Guiding this Ship?: Disciplinary Professional Organisations Guidance for Teachers Using Generative Artificial Intelligence to Develop Culturally Responsive Materials</b><br />C. Kalinec-Craig, Ş. Tekin, T. Yuen, and <b>A. Rios</b><br /><i>Artificial Intelligence for Advancing Education Quality and Inclusion: Practices across Educational Settings, pp. 115-133, Springer, 2026.</i><br />[<a href="https://doi.org/10.1007/978-3-032-12174-5_7">link</a>]</li><br />
 
@@ -58,7 +54,13 @@ permalink: /publications/
 
 For computer science publication venues, conference proceedings are highly selective (20%-40% acceptance rates), and are considered prestigious - sometimes <b>more prestigious than journals</b>. Therefore, highly-selective conferences are generally considered the most respected publication venues within certain communities such as natural language processing (e.g., ACL, NAACL, and EMNLP).
 
-<ol start="17">
+<ol>
+
+<li><b>Prompting Underestimates LLM Capability for Time Series Classification</b><br />D. Schumacher, E. Nourbakhsh, R. Slavin, and <b>A. Rios</b><br /><i>To appear in the Proceedings of AACL-IJCNLP 2026, Main Conference.</i><br />[<a href="https://arxiv.org/abs/2601.03464">preprint</a>][<a href="https://github.com/danschumac1/PromptingUnderestimates">code</a>]</li><br />
+
+<li><b>Absolute Error Is Not Enough: Ranking Model Performance Without Labels to Estimate Disparities at Scale</b><br />V. Rammouz, A. Gonzalez, C. Cruzportillo, A. Tan, N. Beebe, K. Yang, and <b>A. Rios</b><br /><i>To appear in the Proceedings of AACL-IJCNLP 2026, Main Conference.</i><br />[<a href="https://arxiv.org/abs/2510.09519">preprint</a>]</li><br />
+
+<li><b>Embarrassingly Simple Access Control for Large Language Models</b><br />V. Rammouz, Đ. Klisura, R. Krishnan, and <b>A. Rios</b><br /><i>To appear in the Proceedings of AACL-IJCNLP 2026, Main Conference.</i><br /></li><br />
 
 <li><b>Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting?</b><br />D. Schumacher, P.D. Rajarajan, H. Kotara, R. Rendon, K. Atupulazi, D. Tagare, I.T. Sanusi, F.G. Martin, and <b>A. Rios</b><br /><i>To appear in the Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Main Conference.</i><br />[<a href="https://arxiv.org/abs/2608.30948">preprint</a>][<a href="https://github.com/danschumac1/MiddleSchoolersIdentify">code</a>]</li><br />
 
@@ -144,7 +146,7 @@ For computer science publication venues, conference proceedings are highly selec
 
 ## Peer-reviewed Workshop Publications
 
-<ol start="54">
+<ol>
 
 <li><b>When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG</b><br />E. Nourbakhsh, R. Slavin, K. Yang, and <b>A. Rios</b><br /><i>Proceedings of the 25th Workshop on Biomedical Language Processing (BioNLP 2026), ACL 2026.</i><br />[<a href="https://arxiv.org/abs/2606.04127">preprint</a>][<a href="https://aclanthology.org/2026.bionlp-1.72/">link</a>][<a href="https://github.com/erfan-nourbakhsh/BioMedicalRAG">code</a>]</li><br />
 
